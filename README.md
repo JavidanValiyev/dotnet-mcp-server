@@ -1,4 +1,4 @@
-# MCP MSSQL Server
+# MCP SQL Server
 
 A Model Context Protocol (MCP) server implementation for Microsoft SQL Server, built with .NET 10. This server enables AI assistants like Claude to interact with SQL Server databases through standardized MCP tools and resources.
 
